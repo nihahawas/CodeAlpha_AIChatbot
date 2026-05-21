@@ -1,6 +1,9 @@
 # NIWA — AI Chatbot 🤖
 ### CodeAlpha Java Internship — Task 3
 
+<img width="652" height="923" alt="image" src="https://github.com/user-attachments/assets/c259059a-8224-4e07-a490-1d1d161c8a8d" />
+
+
 ---
 
 ## 📋 Project Overview
