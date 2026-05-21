@@ -123,10 +123,11 @@ NIWA: I was created as part of the CodeAlpha Java Internship program! 🎓
 
 ## 👤 Author
 
-- **Name:** [Your Full Name]
-- **Institution:** [Your University]
+- **Name:** [NIHA HAWAS]
+- **Institution:** [SZABIST ISLAMABAD]
 - **Internship:** CodeAlpha — Java Programming
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** [https://github.com/nihahawas]
+- **Linkedin:** [https://www.linkedin.com/in/nihahawas45]
 
 ---
 
