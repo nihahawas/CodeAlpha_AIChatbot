@@ -55,7 +55,7 @@ public class ChatbotGUI extends JFrame {
         chatEngine = new ChatEngine();
         initUI();
         addBotMessage(
-            "Hello! I'm NIWA \uD83E\uDD16 — your Artificial Responsive Intelligence Assistant!\n\n"
+            "Hello! I'm NIWA \uD83E\uDD16 — your Neural Intelligent Wise Assistant!\n\n"
             + "Here's what I can do:\n"
             + "  \u2022 Tell you the current time & date\n"
             + "  \u2022 Solve math  (e.g., 25 * 4 or 100 / 3)\n"
@@ -68,7 +68,7 @@ public class ChatbotGUI extends JFrame {
     // ─── UI Initialisation ─────────────────────────────────────────────────────
 
     private void initUI() {
-        setTitle("NIWA  \\u2014  AI Chatbot  |  CodeAlpha");
+        setTitle("NIWA - 2026  AI - Chatbot");
         setSize(520, 720);
         setMinimumSize(new Dimension(400, 550));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
