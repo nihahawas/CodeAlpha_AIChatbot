@@ -1,6 +1,9 @@
 # NIWA — AI Chatbot 🤖
 ### CodeAlpha Java Internship — Task 3
 
+<img width="652" height="923" alt="image" src="https://github.com/user-attachments/assets/c259059a-8224-4e07-a490-1d1d161c8a8d" />
+
+
 ---
 
 ## 📋 Project Overview
@@ -120,10 +123,11 @@ NIWA: I was created as part of the CodeAlpha Java Internship program! 🎓
 
 ## 👤 Author
 
-- **Name:** [Your Full Name]
-- **Institution:** [Your University]
+- **Name:** [NIHA HAWAS]
+- **Institution:** [SZABIST ISLAMABAD]
 - **Internship:** CodeAlpha — Java Programming
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** [https://github.com/nihahawas]
+- **Linkedin:** [https://www.linkedin.com/in/nihahawas45]
 
 ---
 
