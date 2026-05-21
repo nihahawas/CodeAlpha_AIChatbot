@@ -8,7 +8,7 @@ import javax.swing.UIManager;
  * ============================================================
  *  NIWA - Artificial Responsive Intelligence Assistant
  *  CodeAlpha Java Internship — Task 3: AI Chatbot
- *  Author : [Your Name]
+ *  Author : Niha Hawas
  *  Version: 1.0
  * ============================================================
  */
