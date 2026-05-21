@@ -68,7 +68,7 @@ public class ChatbotGUI extends JFrame {
     // ─── UI Initialisation ─────────────────────────────────────────────────────
 
     private void initUI() {
-        setTitle("NIWA - 2026  AI - Chatbot");
+        setTitle("NIWA - 2026 - AIChatbot");
         setSize(520, 720);
         setMinimumSize(new Dimension(400, 550));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
